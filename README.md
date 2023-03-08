@@ -10,7 +10,7 @@ As interest rate keeps on getting higher, the topic of credit will become pertin
 
 ## Description of Source of Data
 
-The data described the customer with identifiers that 1/ define the customer and 2/ define payment ability and credit sport.  
+The data described the customer with identifiers that 1/ define the customer and 2/ define payment ability and credit score.  
 
 ## Questions to be answered 
 
