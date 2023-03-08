@@ -9,6 +9,9 @@ As interest rate keeps on getting higher, the topic of credit will become pertin
 ## Description of Source of Data
 The data described the customer with identifiers that 1/ define the customer and 2/ define payment ability and credit sport.  
 ## Questions to be answered 
+ Is credit score sufficient to classify a customer?
+ Is payment history sufficient to determine the credit risk? 
+ what is the best determinant to classify a customer?  
 
 ## Segment 1 
 ### Tools used in Segment 1
