@@ -1,19 +1,25 @@
 # Final_Project_Columbia
 
 ## Topic of Final Project
+
  Credit score classification
  
 ## Reasons for Selecting the Topic
+
 As interest rate keeps on getting higher, the topic of credit will become pertinent in that current credit card holder will pay more interest, future credit applicant will face more hurdles to get approved. In order to better assess applicants and classify them in category that will help in the decision making process, we want to apply machine learning to the credit classification process. 
 
 ## Description of Source of Data
+
 The data described the customer with identifiers that 1/ define the customer and 2/ define payment ability and credit sport.  
+
 ## Questions to be answered 
- Is credit score sufficient to classify a customer?
- Is payment history sufficient to determine the credit risk? 
- what is the best determinant to classify a customer?  
+
+ + Is credit score sufficient to classify a customer?
+ + Is payment history sufficient to determine the credit risk? 
+ + what is the best determinant to classify a customer?  
 
 ## Segment 1 
+
 ### Tools used in Segment 1
 Some of the tools that we used during Segment 1 are Jupyter Notebook, SQL/PgAdmin and Excel.
 
