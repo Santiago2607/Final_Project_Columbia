@@ -4,9 +4,10 @@
  Credit score classification
  
 ## Reasons for Selecting the Topic
-As interest rate keeps on getting higher, the topic of credit will become pertinent in that current credit card holder will pay more interest, future credit applicant will face more hurdles to get approved. In order to better assess applicants and classify them in category that will help in the decision making process, we want to apply machine learning to the credit calssification process. 
+As interest rate keeps on getting higher, the topic of credit will become pertinent in that current credit card holder will pay more interest, future credit applicant will face more hurdles to get approved. In order to better assess applicants and classify them in category that will help in the decision making process, we want to apply machine learning to the credit classification process. 
 
 ## Description of Source of Data
+As interest rates keep on getting raised by the Federal Reserve Bank, the topic of credit is becoming pertinent in that current credit card holders will pay more in interest, future credit applicant will face more hurdles to get approved. In order to better assess applicants and classify them in category that will help in the decision making process. We want to apply machine learning to the credit classification process. 
 ## Questions to be answered 
 
 ## Segment 1 
