@@ -16,7 +16,7 @@ The data described the customer with identifiers that 1/ define the customer and
 
  + Is credit score sufficient to classify a customer?
  + Is payment history sufficient to determine the credit risk? 
- + what is the best determinant to classify a customer?  
+ + What is the best determinant to classify a customer?  
 
 ## Segment 1 
 
