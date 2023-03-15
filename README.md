@@ -31,3 +31,6 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 ![image](https://user-images.githubusercontent.com/113261292/223599491-f6938355-25c6-48b2-ae88-00007f591de8.png)
 
 
+## Description of the analysis phase
+
+
