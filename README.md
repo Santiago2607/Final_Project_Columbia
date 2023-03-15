@@ -45,3 +45,11 @@ We are trying to make it possible for the readers to easily understand our data 
 Then, we also replace the values of the Credit Score with numbers easy to read and analyze. Good is equal to 2, Standard is equal to 1, and Poor is equal to 0. 
 
 Finally, we train and test the data using the hidden layers getting a total train on 36,414 samples. Based on this analysis, we got a loss of -1.5519e+02 and an accuracy of 0.6093.
+
+## Description of Ensemble Learning.
+
+In this case, we try to use the ensemble machine learning model to achieve the imbalanced classification report. Just as in the previous model, we also drop some columns since their information was not fundamental to the success of the analysis and we proceed with the train test split function. 
+
+After training the data, we resample it with the Balance Random Forest Classifier in order to obtain its random state and calculate its balanced accuracy score. Also, as part of trying to make this model succeed and ready to be shown to the customers, we listed the features sorted in descending order by feature importance and got displayed the confusion matrix by calculating the balanced accuracy score of the Easy Ensemble Classifier.
+
+We finish this training by having an imbalanced classification report with a Precision of 0.43, 0.64, and 0.77, and a Specificity of 0.78, 0.83, and 0.82 to Good, Poor, and Standard respectively. 
