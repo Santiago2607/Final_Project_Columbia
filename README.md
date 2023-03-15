@@ -36,5 +36,5 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 ![image](https://user-images.githubusercontent.com/115424156/225174483-3ffb4540-089b-446b-b4f5-d37ea1f58e34.png)
 
-
+### Description of Process in Segment 2
 
