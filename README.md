@@ -26,3 +26,10 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 ![image](https://user-images.githubusercontent.com/113261292/223599491-f6938355-25c6-48b2-ae88-00007f591de8.png)
 
 
+![image](https://user-images.githubusercontent.com/115424156/225173106-ca0f1fee-e1a1-4068-bac9-cf7d093b3b10.png)
+
+![image](https://user-images.githubusercontent.com/115424156/225173160-f748c5b7-c145-4b4d-9240-0b42d107ff8d.png)
+
+![image](https://user-images.githubusercontent.com/115424156/225173206-6e1f4709-4b9b-4eeb-8384-11cd63c98d67.png)
+
+
