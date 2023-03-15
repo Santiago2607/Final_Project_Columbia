@@ -31,6 +31,7 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 ![image](https://user-images.githubusercontent.com/115424156/225174416-988674ab-5002-47d4-8e67-2f7b3a945dd4.png)
 
 2. Customer_Info Table
+
 ![image](https://user-images.githubusercontent.com/115424156/225174467-fba52f59-38d1-473d-afba-5d8bef1f9c9a.png)
 
 ![image](https://user-images.githubusercontent.com/115424156/225174483-3ffb4540-089b-446b-b4f5-d37ea1f58e34.png)
