@@ -53,3 +53,11 @@ In this case, we try to use the ensemble machine learning model to achieve the i
 After training the data, we resample it with the Balance Random Forest Classifier in order to obtain its random state and calculate its balanced accuracy score. Also, as part of trying to make this model succeed and ready to be shown to the customers, we listed the features sorted in descending order by feature importance and got displayed the confusion matrix by calculating the balanced accuracy score of the Easy Ensemble Classifier.
 
 We finish this training by having an imbalanced classification report with a Precision of 0.43, 0.64, and 0.77, and a Specificity of 0.78, 0.83, and 0.82 to Good, Poor, and Standard respectively. 
+
+## Description of Resampling Learning
+
+The last machine learning model we are testing with our dataset is the resampling model. This model is very similar compared to the ensemble learning and the deep machine learning model since we have to drop columns, test data using the train test split, and get the balanced accuracy score.
+
+By using the resampling learning model, we also calculate the logistic regression and SMOTEENN training data which helped us get the confusion matrix and imbalanced classification report. 
+
+In this case, the imbalanced classification report of this analysis ends up with 0.27, 0.55, and 0.62 of Precision, and 0.49, 0.73, and 1 of Specificity for Good, Poor, and Standard respectively. 
