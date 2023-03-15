@@ -28,10 +28,12 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 1. Credit_Change Table
 
-![image](https://user-images.githubusercontent.com/113261292/223599378-2e8043a8-3a27-48fd-8c63-d7cd66709b84.png)
+![image](https://user-images.githubusercontent.com/115424156/225174416-988674ab-5002-47d4-8e67-2f7b3a945dd4.png)
 
 2. Customer_Info Table
+![image](https://user-images.githubusercontent.com/115424156/225174467-fba52f59-38d1-473d-afba-5d8bef1f9c9a.png)
 
-![image](https://user-images.githubusercontent.com/113261292/223599491-f6938355-25c6-48b2-ae88-00007f591de8.png)
+![image](https://user-images.githubusercontent.com/115424156/225174483-3ffb4540-089b-446b-b4f5-d37ea1f58e34.png)
+
 
 
