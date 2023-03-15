@@ -40,7 +40,7 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 ## Description of the Deep Machine Learning model.
 
-By using this model, we are trying to make it possible for the readers to understand easily our data. In this case, we first deleted some columns such as Type of Loan, Annual Income, Customer ID, Occupation, and more. 
+We are trying to make it possible for the readers to easily understand our data by using the deep learning model, . In this case, we first deleted some columns such as Type of Loan, Annual Income, Customer ID, Occupation, and more. 
 
 Then, we also replace the values of the Credit Score with numbers easy to read and analyze. Good is equal to 2, Standard is equal to 1, and Poor is equal to 0. 
 
