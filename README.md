@@ -61,3 +61,7 @@ The last machine learning model we are testing with our dataset is the resamplin
 By using the resampling learning model, we also calculate the logistic regression and SMOTEENN training data which helped us get the confusion matrix and imbalanced classification report. 
 
 In this case, the imbalanced classification report of this analysis ends up with 0.27, 0.55, and 0.62 of Precision, and 0.49, 0.73, and 1 of Specificity for Good, Poor, and Standard respectively. 
+
+## Decision of the model learning
+
+To sum up, after analyzing these three models and based on the results we gathered, we decided that the best machine learning model to use with our dataset is the Ensembled Learning model. This model was the only one whose balanced accuracy score using the balanced random forest classifier surpassed the accuracy score by more than 70 by having a total percentage of 0.75565 and a total specificity of 0.80. 
