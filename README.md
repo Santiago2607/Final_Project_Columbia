@@ -49,6 +49,13 @@ We finish this training by having an imbalanced classification report with a Pre
 
 ## Description of Resampling Learning
 
+The last machine learning model we are testing with our dataset is the resampling model. This model is very similar compared to the ensemble learning and the deep machine learning model since we have to drop columns, test data using the train test split, and get the balanced accuracy score.
+
+By using the resampling learning model, we also calculate the logistic regression and SMOTEENN training data which helped us get the confusion matrix and imbalanced classification report. 
+
+In this case, the imbalanced classification report of this analysis ends up with 0.27, 0.55, and 0.62 of Precision, and 0.49, 0.73, and 1 of Specificity for Good, Poor, and Standard respectively. 
+
 ## Decision of the model learning
 
+After analyzing these three models and based on the results 
 
