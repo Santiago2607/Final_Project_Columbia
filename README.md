@@ -38,3 +38,10 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 ### Description of Process in Segment 2
 
+## Description of the Deep Machine Learning model.
+
+By using this model, we are trying to make it possible for the readers to understand easily our data. In this case, we first deleted some columns such as Type of Loan, Annual Income, Customer ID, Occupation, and more. 
+
+Then, we also replace the values of the Credit Score with numbers easy to read and analyze. Good is equal to 2, Standard is equal to 1, and Poor is equal to 0. 
+
+Finally, we train and test the data using the hidden layers getting a total train on 36,414 samples. Based on this analysis, we got a loss of -1.5519e+02 and an accuracy of 0.6093.
