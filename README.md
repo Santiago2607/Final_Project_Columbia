@@ -106,4 +106,5 @@ To sum up, after analyzing these three models and based on the results we gather
 
 ## What are the factors that drive credit scores with actual real life cases? 
 ![image](https://user-images.githubusercontent.com/115424156/225769459-cde04173-ac10-45d3-ae7b-a71978de425e.png)
+source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
 
