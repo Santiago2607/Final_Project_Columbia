@@ -104,4 +104,6 @@ In this case, the imbalanced classification report of this analysis ends up with
 
 To sum up, after analyzing these three models and based on the results we gathered, we decided that the best machine learning model to use with our dataset is the Ensembled Learning model. This model was the only one whose balanced accuracy score using the balanced random forest classifier surpassed the accuracy score by more than 70 by having a total percentage of 0.75565 and a total specificity of 0.80. 
 
-## How does the output from this work compares with actual real life cases? 
+## What are the factors that drive credit scores with actual real life cases? 
+![image](https://user-images.githubusercontent.com/115424156/225769459-cde04173-ac10-45d3-ae7b-a71978de425e.png)
+
