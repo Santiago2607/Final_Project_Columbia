@@ -65,6 +65,17 @@ We use Python to establish different machine learning models including deep mach
 - Train/fit the training data to the model. 
 - Use the model for predictions and transformations.
 
+### Description of preliminary data preprocessing
+
+
+### Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
+
+### Description of how data was split into training and testing sets
+
+### Model choice, including limitations and benefits
+
+
+
 #### Description of the Deep Machine Learning model.
 
 We are trying to make it possible for the readers to easily understand our data by using the deep learning model, . In this case, we first deleted some columns such as Type of Loan, Annual Income, Customer ID, Occupation, and more. 
