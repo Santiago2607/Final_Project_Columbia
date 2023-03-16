@@ -28,3 +28,9 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 ![image](https://user-images.githubusercontent.com/115424156/225173160-f748c5b7-c145-4b4d-9240-0b42d107ff8d.png)
 
 
+
+
+
+![image](https://user-images.githubusercontent.com/115424156/225776798-a7e0ddb0-6826-44e8-b436-aaf8324f80b2.png)
+source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
+
