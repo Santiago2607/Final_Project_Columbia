@@ -59,3 +59,6 @@ In this case, the imbalanced classification report of this analysis ends up with
 
 To sum up, after analyzing these three models and based on the results we gathered, we decided that the best machine learning model to use with our dataset is the Ensembled Learning model. This model was the only one whose balanced accuracy score using the balanced random forest classifier surpassed the accuracy score by more than 70 by having a total percentage of 0.75565 and a total specificity of 0.80. 
 
+## Google Slides
+
+If you want to have more user experience by interacting with our Google Slides you can click {Here} (https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit?usp=sharing)
