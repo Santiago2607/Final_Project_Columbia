@@ -40,22 +40,22 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 ### Description of the data exploration phase of the project
 
-After importing the datasets (customer information and credit change datasets) into SQLAlchemy, a new table is created by combining the two datasets through Customer_ID. After integrating the database with the project, preliminary data analysis is conducted to explore the data. Customer credit score is the target we will make predictions through establishing the model. In the dataset of credit score, there are a few variables that are considered as the features to predict the model from customer age, to the interest and the number of credit cards in hand. 
-
-There are some trends from analyzing the new dataset. Firstly,the higher interest rate, the lower credit score. Additionally, the more aggressive the customer' payment behaviour is, the lower credit score. 
-
-Below is the statistical information of the features of variables. 
-
+Preliminary data analysis is conducted to explore the data. There are 48,553 rows of data in the credit score dataset, in which, 25,753 credit scores are standard score, 14,164 are Poor credit score and 8,636 are good credit score. Below is the statistical information of the features of variables. 
 ![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/Data%20Description.png)
+
+From exploration of the data, there are some trends to be found. the higher credit score, the lower interest rate and the narrower the range of the interest rate. From the second screenshot, the average interest rate did not present obvious differences among the different occupations. As for the relationship of number of delayed times and the inhand salary, the higher inhand salary, the lower risk of paying delayed. 
+
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/DV1.png)
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/Dv2.png)
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/DV3.png)
 
 ### Description of the analysis phase of the project
 
-After exploration of the datasets, credit score is considered to be the target for analysis.We removed some data such as Customer_ID, ID, types of loan and so on because they are neither target or features. 
-
-Because the credit score dataset had labeled data, so it is appropriate to use supervised machine learning. Since the input data contains a large number of variables, the deep machine learning is considered to build. 
+In the analysis phase of the project, we mainly focus on building database, integrating the database to the project, establishing machine learning model and evaluating the prediction results. 
 
 ### The technologies, languages, tools, and algorithms that the team used throughout the project 
-We use Python to establish different machine learning models including deep machine learning model and supervised machine learning model. As the output of the model should be the name or group of class, it is proper for us to use the classification algorithm. In the supervised machine learning model, we use oversampling RandomOverSampler and SMOTE algorithms and tehn use the undersampling ClusterCentroids algorithm. 
+
+We use Python to establish different machine learning models including deep machine learning model and supervised machine learning model. As the output of the model should be the name or group of class, it is proper for us to use the classification algorithm. In the supervised machine learning model, we use oversampling RandomOverSampler, SMOTE algorithms and the undersampling ClusterCentroids algorithm. 
 
 ### Description of Process of building machine learning model 
 
@@ -67,12 +67,33 @@ We use Python to establish different machine learning models including deep mach
 
 ### Description of preliminary data preprocessing
 
+Before establishing the machine learning models, the data is cleaned and transformed to the appropriate data types. the prepliminary data preprocessing includes dropping the redundent columns such as unamed:0, SSN and so on, dropping the null value and deplicate data, and change the specific columns (eg. month, annual income) to numerical data type. Most crucial part of preprocessing is encoding the features using the OneHotEncoder. In the deep machine learning part, the good credit score is replaced with the number 2, the standard credit score represents number 1 adn the poor credit score represents number 0. 
 
 ### Description of preliminary feature engineering and preliminary feature selection, including their decision-making process
 
+Customer credit score is the target we will make predictions through establishing the model. In the dataset of credit score, there are a few variables that are considered as the features to predict the model from customer age, annual income, monthly in-hand salary, the interest and so on. 
+
 ### Description of how data was split into training and testing sets
 
+we use train_test_split function to split the preprocessed data into a training and testing dataset. 
+
 ### Model choice, including limitations and benefits
+
+Because the credit score dataset had labeled data, so it is appropriate to use supervised machine learning. Since the input data contains a large number of variables, the deep machine learning is considered to build. 
+
+Benefit of ensemble learning model: 
+- Are robust against overfitting 
+- be used to rank the importance of input variables
+- Can handle thousands of input variables without variable deletion
+- Are robust to outliers and nonlinear data
+- Run efficiently on large datasets
+
+Limitations of ensemble learning model: 
+
+Benefit of Deep Learning Model: 
+
+Limitations of Deep Learning Model: 
+-
 
 
 
