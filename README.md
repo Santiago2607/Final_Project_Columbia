@@ -81,20 +81,25 @@ we use train_test_split function to split the preprocessed data into a training 
 
 Because the credit score dataset had labeled data, so it is appropriate to use supervised machine learning. Since the input data contains a large number of variables, the deep machine learning is considered to build. 
 
-Benefit of ensemble learning model: 
+#### Benefit of ensemble learning model: 
 - Are robust against overfitting 
 - be used to rank the importance of input variables
 - Can handle thousands of input variables without variable deletion
 - Are robust to outliers and nonlinear data
 - Run efficiently on large datasets
 
-Limitations of ensemble learning model: 
+#### Limitations of ensemble learning model: 
+- Ensembling is less interpretable. 
+- The art of ensembling is hard to learn
+- Ensembling is expensive in terms of both time and space. 
 
-Benefit of Deep Learning Model: 
+#### Benefit of Deep Learning Model: 
 
-Limitations of Deep Learning Model: 
--
+There are a number of advantages to using a neural network instead of a traditional statistical or machine learning model. For instance, neural networks are effective at detecting complex, nonlinear relationships. Additionally, neural networks have greater tolerance for messy data and can learn to ignore noisy characteristics in data.
 
+#### Limitations of Deep Learning Model: 
+
+The two biggest disadvantages to using a neural network model are that the layers of neurons are often too complex to dissect and understand (creating a black box problem), and neural networks are prone to overfitting (characterizing the training data so well that it does not generalize to test data effectively). However, both of the disadvantages can be mitigated and accounted for.
 
 
 #### Description of the Deep Machine Learning model.
