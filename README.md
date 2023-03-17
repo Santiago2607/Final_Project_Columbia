@@ -135,10 +135,10 @@ Credit scores often varies between 300 and 850. Since the file we based our anal
 
 As a general rule, here are key factors that drive credit scores.
 
-+Payment history accounts for 35% of one person's credit score
-+Amount Owed - 30%
-+Credit History 15%
-+Credit Mix and New Credit- 10% each
++ Payment history accounts for 35% of one person's credit score
++ Amount Owed - 30%
++ Credit History 15%
++ Credit Mix and New Credit- 10% each
 
 ![image](https://user-images.githubusercontent.com/115424156/225776798-a7e0ddb0-6826-44e8-b436-aaf8324f80b2.png)
 source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
