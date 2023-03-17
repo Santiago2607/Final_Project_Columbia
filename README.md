@@ -130,7 +130,7 @@ In this case, the imbalanced classification report of this analysis ends up with
 
 To sum up, after analyzing these three models and based on the results we gathered, we decided that the best machine learning model to use with our dataset is the Ensembled Learning model. This model was the only one whose balanced accuracy score using the balanced random forest classifier surpassed the accuracy score by more than 70 by having a total percentage of 0.75565 and a total specificity of 0.80. 
 
-## What drives credit decisions?
+## Machine Learning and Credit Decision
 Credit scores often varies between 300 and 850. Since the file we based our analysis classified credit score in "poor, standard , and good" which we converted to "0, 1 and , 2 respectively, we determined that this file is more for efficient classification rather than a direct predictor of credit risk.  By using machine learning to classify applicant, a company should be able to devote more time assessing real credit risk based on the group of interest. For instance, the company can decide to drop all applicant assigned classification credit score equals 0. The company can also decide to extend credit to that same group but with a high interest rate or a security depoit. 
 
 As a general rule, here are key factors that drive credit scores.
