@@ -144,7 +144,7 @@ As a general rule, here are key factors that drive credit scores.
 source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
 
 
-In conclusion: Machine Learning could be used as an efficeint tool in the classification of credit applicants. Risk factors are however a mixed bag of identifiers as presented above to be able to make credit decision.  
+In conclusion: Machine Learning could be used as an efficeint tool in the classification of credit applicants. Risk factors are however mixed in order to be able to make credit decision.  
 
 ## Google Slides Link: 
 
