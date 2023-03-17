@@ -31,7 +31,7 @@ During the development of segment 1, we used Jupyter Notebook in order to analyz
 
 Credit scores often varies between 300 and 850. Since the file we based our analysis classified credit score in "poor, standard , and good" which we converted to "0, 1 and , 2 respectively, we determined that this file is more for efficient classification rather than a direct predictor of credit risk.  By using machine learning to classify applicant, a company should be able to devote more time assessing real credit risk based on the group of interest. For instance, the company can decide to drop all applicant assigned classification credit score equals 0. The company can also decide to extend credit to that same group but with a high interest rate or a security depoit. 
 
-Below are key factors that drive credit scores.
+As a general rule, here are key factors that drive credit scores.
 
 1.Payment history accounts for 35% of one person's credit score
 2.Amount Owed - 30%
@@ -40,6 +40,9 @@ Below are key factors that drive credit scores.
 
 ![image](https://user-images.githubusercontent.com/115424156/225776798-a7e0ddb0-6826-44e8-b436-aaf8324f80b2.png)
 source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
+
+
+In conclusion: Machine Learning could be used as an efficeint tool in the classification of credit applicants. Risk factors are however a mixed bag of identifiers as presented above to be able to make  definite credit decision.  
 
 
 
