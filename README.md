@@ -61,4 +61,4 @@ To sum up, after analyzing these three models and based on the results we gather
 
 ## Google Slides
 
-If you want to have more user experience by interacting with our Google Slides you can click [Here](https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit?usp=sharing)
+If you want to feel more user experience by interacting with our Google Slides, please can click [Here](https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit?usp=sharing)
