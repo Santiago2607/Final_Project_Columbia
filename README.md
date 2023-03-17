@@ -134,3 +134,7 @@ To sum up, after analyzing these three models and based on the results we gather
 ![image](https://user-images.githubusercontent.com/115424156/225769459-cde04173-ac10-45d3-ae7b-a71978de425e.png)
 source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
 
+## Google Slides Link: 
+[Google Slides Link ](https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit#slide=id.p)
+
+
