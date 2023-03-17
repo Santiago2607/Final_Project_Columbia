@@ -135,6 +135,9 @@ To sum up, after analyzing these three models and based on the results we gather
 source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
 
 ## Google Slides Link: 
+
+Please click below in order to see our slides in real-time along with some entertaining transitions. Hope you like it !!
+
 [Google Slides Link ](https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit#slide=id.p)
 
 
