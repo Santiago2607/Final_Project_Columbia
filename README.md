@@ -152,4 +152,17 @@ Please click below in order to see our slides in real-time along with some enter
 
 [Google Slides Link ](https://docs.google.com/presentation/d/1Xr6VbgO_vj1QAAAZu4b_5EFu6M2g8TAmaSNqEO9UapM/edit#slide=id.p)
 
+## Tableau Dashboard Link: 
+[Interactive Dashboard](https://public.tableau.com/app/profile/yidi.liu/viz/FinalProject_16794929368580/Story1#1)
+
+## References 
+
+- https://machinelearningmastery.com/why-use-ensemble-learning/
+- https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
+- https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
+
+
+
+
 
