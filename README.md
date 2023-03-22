@@ -110,6 +110,8 @@ Then, we also replace the values of the Credit Score with numbers easy to read a
 
 Finally, we train and test the data using the hidden layers getting a total train on 36,414 samples. Based on this analysis, we got a loss of -1.5519e+02 and an accuracy of 0.6093.
 
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/deep%20machine%20learning%20.png)
+
 #### Description of Ensemble Learning.
 
 In this case, we try to use the ensemble machine learning model to achieve the imbalanced classification report. Just as in the previous model, we also drop some columns since their information was not fundamental to the success of the analysis and we proceed with the train test split function. 
@@ -117,6 +119,12 @@ In this case, we try to use the ensemble machine learning model to achieve the i
 After training the data, we resample it with the Balance Random Forest Classifier in order to obtain its random state and calculate its balanced accuracy score. Also, as part of trying to make this model succeed and ready to be shown to the customers, we listed the features sorted in descending order by feature importance and got displayed the confusion matrix by calculating the balanced accuracy score of the Easy Ensemble Classifier.
 
 We finish this training by having an imbalanced classification report with a Precision of 0.43, 0.64, and 0.77, and a Specificity of 0.78, 0.83, and 0.82 to Good, Poor, and Standard respectively. 
+
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/easy%20ensemble%20model%20result%20.png)
+
+
+![image](https://github.com/Santiago2607/Final_Project_Columbia/blob/main/images/balanced%20random%20forest%20result%20.png)
+
 
 #### Description of Resampling Learning
 
@@ -130,6 +138,8 @@ In this case, the imbalanced classification report of this analysis ends up with
 
 To sum up, after analyzing these three models and based on the results we gathered, we decided that the best machine learning model to use with our dataset is the Ensembled Learning model. This model was the only one whose balanced accuracy score using the balanced random forest classifier surpassed the accuracy score by more than 70 by having a total percentage of 0.75565 and a total specificity of 0.80. 
 
+
+
 ## Machine Learning and Credit Decision
 Credit scores often varies between 300 and 850. Since the file we based our analysis classified credit score in "poor, standard , and good" which we converted to "0, 1 and , 2 respectively, we determined that this file is more for efficient classification rather than a direct predictor of credit risk.  By using machine learning to classify applicant, a company should be able to devote more time assessing real credit risk based on the group of interest. For instance, the company can decide to drop all applicant assigned classification credit score equals 0. The company can also decide to extend credit to that same group but with a high interest rate or a security depoit. 
 
@@ -141,10 +151,20 @@ As a general rule, here are key factors that drive credit scores.
 + Credit Mix and New Credit- 10% each
 
 ![image](https://user-images.githubusercontent.com/115424156/225776798-a7e0ddb0-6826-44e8-b436-aaf8324f80b2.png)
-source https://www.experian.com/blogs/ask-experian/how-is-your-credit-score-determined/
+
 
 
 In conclusion: Machine Learning could be used as an efficeint tool in the classification of credit applicants. Risk factors are however mixed in order to be able to make credit decision.  
+
+
+## Recommendations for a future analysis 
+
+We can do further analysis of the importance of different key factors and try to improve the deep machine learning model by adding more neurons to a hidden layers, adding more hidden layers and using different activation further. 
+
+## Further Improvement 
+
+If time is permitted us, we would apply more reliable data by dropping the extreme outliers to improve the results. We would also try to add or drops the factors to establish a better model. 
+
 
 ## Google Slides Link: 
 
